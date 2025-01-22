@@ -1,3 +1,11 @@
+# [1.0.0-canary.2](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/compare/v1.0.0-canary.1...v1.0.0-canary.2) (2025-01-22)
+
+
+### Features
+
+* important ([d9ff8d9](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/d9ff8d9da4b9f69f825785e0bfb9de5ef7ab0f95))
+* this is also important ([ab7583e](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/ab7583e1f5bf7cc7b2f7ad046030d5d330994e8a))
+
 # 1.0.0-canary.1 (2025-01-22)
 
 
