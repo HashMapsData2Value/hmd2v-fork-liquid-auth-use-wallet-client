@@ -18,22 +18,9 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      contents: write
-      packages: write
-      pull-requests: write
-      id-token: write
     steps:
-      - uses: actions/create-github-app-token@v1
-        id: app-token
-        with:
-          app-id: ${{ secrets.BOT_ID }}
-          private-key: ${{ secrets.BOT_SK }}
-
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ steps.app-token.outputs.token }}
+      - name: Clone repository
+        uses: actions/checkout@v3
 
       # semantic-release needs node 20
       - name: Use Node.js 20.x
@@ -53,7 +40,7 @@ jobs:
       - name: "Semantic release"
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Merge Release -> Trunk
@@ -63,4 +50,4 @@ jobs:
           type: now
           from_branch: release/1.x
           target_branch: main
-          github_token: ${{ steps.app-token.outputs.token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
