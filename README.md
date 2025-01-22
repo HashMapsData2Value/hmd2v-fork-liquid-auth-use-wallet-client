@@ -8,7 +8,7 @@ This module uses pnpm, so [install it first](https://pnpm.io).
 
 Then use `pnpm run build` to build the lib, and `pnpm run test` or `pnpm run coverage` to run vitest in trailing mode or to produce test coverage.
 
-# NPM
+# NPM Installation
 
 This package can be found on NPM and downloaded as such:
 
