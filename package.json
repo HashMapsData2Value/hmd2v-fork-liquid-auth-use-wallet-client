@@ -28,7 +28,7 @@
   "dependencies": {
     "@algorandfoundation/liquid-client": "github:algorandfoundation/liquid-auth-js",
     "@algorandfoundation/provider": "github:algorandfoundation/wallet-provider-ts",
-    "algosdk": "^3.0.0",
+    "algosdk": "^3.1.0",
     "cbor-x": "^1.6.0"
   },
   "devDependencies": {
