@@ -1,6 +1,6 @@
 {
   "name": "hmd2v-fork-liquid-auth-use-wallet-client",
-  "version": "1.0.0",
+  "version": "1.1.0-canary.1",
   "description": "A TypeScript library for Liquid Auth's Use-Wallet Client",
   "main": "lib/index.js",
   "type": "module",
@@ -28,7 +28,7 @@
   "dependencies": {
     "@algorandfoundation/liquid-client": "github:algorandfoundation/liquid-auth-js",
     "@algorandfoundation/provider": "github:algorandfoundation/wallet-provider-ts",
-    "algosdk": "^3.0.0",
+    "algosdk": "^3.1.0",
     "cbor-x": "^1.6.0"
   },
   "devDependencies": {
@@ -46,7 +46,10 @@
     "typescript-eslint": "^8.3.0",
     "vitest": "^2.0.5"
   },
-  "repository": "git@github.com:HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client.git"
+  },
   "files": [
     "lib",
     "README.md",
