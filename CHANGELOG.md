@@ -1,3 +1,20 @@
+# [1.0.0-canary.3](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/compare/v1.0.0-canary.2...v1.0.0-canary.3) (2025-01-23)
+
+
+### Bug Fixes
+
+* change name ([4ed5d57](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/4ed5d57f39200ff28a4812c6288775689f229b5f))
+* fixes tsc-alias command ([3c3f2d6](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/3c3f2d68d242ae5064c935a0212a91eacafcd35d))
+* lockfile ([7ce445f](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/7ce445f3b5a453287e98ff2ad54606a6f44f934c))
+* removes .js endings and adds tsc-alias ([8cf37ec](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/8cf37ec0f6a24b384617f5d00f2545f159fe1ab5))
+* update pnpm-lock ([acb5ddf](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/acb5ddf9d2feb3f59abe583cc8e00e3b145e2fd4))
+
+
+### Features
+
+* asdad ([bf6e8a7](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/bf6e8a7a2ff15dd61407fe0f8b78ae3cccdb2f6c))
+* publish to NPM and change docs ([0da4f0b](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/0da4f0ba4430ec4535e1c5e8c45a2396fd4bd530))
+
 ## [1.0.2](https://github.com/hashmapsdata2value/hmd2v-fork-2-liquid-auth-use-wallet-client/compare/v1.0.1...v1.0.2) (2024-10-02)
 
 ### Bug Fixes
