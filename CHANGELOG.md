@@ -1,3 +1,24 @@
+# [1.1.0](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/compare/v1.0.0...v1.1.0) (2025-01-23)
+
+
+### Bug Fixes
+
+* .. ([1245bac](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/1245bac1af7298d2645ce8e0416afbba8b440ed7))
+* change name ([4ed5d57](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/4ed5d57f39200ff28a4812c6288775689f229b5f))
+* fix ([1e4e8fb](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/1e4e8fbf1ee63c042839a872d8a9595b0c56238c))
+* fixes tsc-alias command ([3c3f2d6](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/3c3f2d68d242ae5064c935a0212a91eacafcd35d))
+* lockfile ([7ce445f](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/7ce445f3b5a453287e98ff2ad54606a6f44f934c))
+* removes .js endings and adds tsc-alias ([8cf37ec](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/8cf37ec0f6a24b384617f5d00f2545f159fe1ab5))
+* update pnpm-lock ([acb5ddf](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/acb5ddf9d2feb3f59abe583cc8e00e3b145e2fd4))
+
+
+### Features
+
+* asdad ([bf6e8a7](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/bf6e8a7a2ff15dd61407fe0f8b78ae3cccdb2f6c))
+* important ([d9ff8d9](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/d9ff8d9da4b9f69f825785e0bfb9de5ef7ab0f95))
+* publish to NPM and change docs ([0da4f0b](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/0da4f0ba4430ec4535e1c5e8c45a2396fd4bd530))
+* this is also important ([ab7583e](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/commit/ab7583e1f5bf7cc7b2f7ad046030d5d330994e8a))
+
 # [1.1.0-canary.1](https://github.com/HashMapsData2Value/hmd2v-fork-liquid-auth-use-wallet-client/compare/v1.0.0...v1.1.0-canary.1) (2025-01-23)
 
 
