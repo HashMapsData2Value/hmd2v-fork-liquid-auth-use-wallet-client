@@ -2,7 +2,9 @@
 
 This contains code abstracted out of the Use-Wallet Liquid Auth Wallet provider in [Use-Wallet](https://github.com/TxnLab/use-wallet/tree/main).
 
-# Installation Instructions
+Please refer to [Liquid Auth](https://liquidauth.com) for more information.
+
+# Installation
 
 This module uses pnpm, so [install it first](https://pnpm.io).
 
